@@ -18,7 +18,8 @@
   - Github username
   - Github link
   - Actions: Delete and download (just for show, no actions needed)
- - Each row can be selected, and you can select multiple rows. Please refer to design for more information.
+- Each row can be selected, and you can select multiple rows. Please refer to design for more information
+- The table can be sorted by ID and username (alphabetically). Please note that Github api doesn't support this, so you must do this on client side
  
 ### About the code
 #### Do's 
